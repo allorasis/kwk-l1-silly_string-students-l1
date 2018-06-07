@@ -1,1 +1,1 @@
-puts "IM NOT SHOUTING"
+puts "IM NOT SHOUTING".downcase
